@@ -9,7 +9,9 @@ DOMAIN-SUFFIX,argotunnel.com
 # notion
 DOMAIN-SUFFIX,notion.so
 
+# service
 DOMAIN-SUFFIX,yangli.site
+DOMAIN-SUFFIX,vl.2013149.xyz
 
 # crypto
 DOMAIN-SUFFIX,okx.com
