@@ -1,0 +1,14 @@
+payload:
+  # pt
+  - DOMAIN-KEYWORD,m-team
+  - DOMAIN-KEYWORD,tjupt
+
+  # cloudflare
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,argotunnel.com
+
+  # notion
+  - DOMAIN-SUFFIX,notion.so
+
+  # service
+  - DOMAIN-SUFFIX,yangli.site
