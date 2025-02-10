@@ -497,28 +497,28 @@
         "tag": "geosite-zju",
         "type": "remote",
         "format": "binary",
-        "url": "https://cdn.jsdelivr.net/gh/whitel1/ZJU-Rule/main/sing-box/ZJU.srs",
+        "url": "https://ghproxy.cn/https://raw.githubusercontent.com/whitel1/ZJU-Rule/main/sing-box/ZJU.srs",
         "download_detour": "direct"
       },
       {
         "tag": "geoip-zju",
         "type": "remote",
         "format": "binary",
-        "url": "https://cdn.jsdelivr.net/gh/whitel1/ZJU-Rule/main/sing-box/ZJU-IP.srs",
+        "url": "https://ghproxy.cn/https://raw.githubusercontent.com/whitel1/ZJU-Rule/main/sing-box/ZJU-IP.srs",
         "download_detour": "direct"
       },
       {
         "tag": "geosite-zju-rule",
         "type": "remote",
         "format": "binary",
-        "url": "https://cdn.jsdelivr.net/gh/whitel1/ZJU-Rule/main/sing-box/ZJU-Rule.srs",
+        "url": "https://ghproxy.cn/https://raw.githubusercontent.com/whitel1/ZJU-Rule/main/sing-box/ZJU-Rule.srs",
         "download_detour": "direct"
       },
       {
         "tag": "geosite-pt",
         "type": "remote",
         "format": "binary",
-        "url": "https://cdn.jsdelivr.net/gh/whitel1/ZJU-Rule/main/sing-box/Ruleset/PrivateTracker.srs",
+        "url": "https://ghproxy.cn/https://raw.githubusercontent.com/whitel1/ZJU-Rule/main/sing-box/Ruleset/PrivateTracker.srs",
         "download_detour": "direct"
       },
       {
