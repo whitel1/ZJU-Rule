@@ -27,7 +27,8 @@
     "servers": [
       {
         "tag": "google",
-        "address": "tls://8.8.8.8"
+        "address": "tls://8.8.8.8",
+        "detour": "Proxy"
       },
       {
         "tag": "local",
